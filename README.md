@@ -7,14 +7,14 @@ This can come in handy if you want to back up the DNS records for each domain in
 
 - JQ is required to parse the JSON. Install with:
 
-Ubuntu/Debian: 
-```sudo apt install jq```
+ -Ubuntu/Debian: 
+ ```sudo apt install jq```
 
-CentOS/RHEL: 
-```sudo yum install jq```
+ -CentOS/RHEL: 
+ ```sudo yum install jq```
 
-Fedora: 
-```sudo dnf install jq```
+ -Fedora: 
+ ```sudo dnf install jq```
 
 - You must have an API key with Zone Read and DNS Edit permissions for all your zones (or the ones you wish to target at least).
 
